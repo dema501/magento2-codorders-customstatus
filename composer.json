@@ -1,10 +1,10 @@
 {
     "name": "liftmode/magento2-codorders-customstatus",
     "description": "Set custom status for orders with cash on delivery payment",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "require": {
         "magento/framework": "102.0.*",
-        "php": "~7.1.3||~7.2.0"
+        "php": "~7.1.3|~7.2.0|~7.3.0"
     },
     "type": "magento2-module",
     "license": [
